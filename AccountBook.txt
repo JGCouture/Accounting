@@ -1,0 +1,4 @@
+income 200 massage
+income	500	tutoring
+expand	-300	shopping
+income	10	lunch 

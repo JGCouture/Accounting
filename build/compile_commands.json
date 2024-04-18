@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/albert/Documents/c++/accounting/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/accounting.dir/main.cpp.o -c /Users/albert/Documents/c++/accounting/main.cpp",
+  "file": "/Users/albert/Documents/c++/accounting/main.cpp",
+  "output": "CMakeFiles/accounting.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/albert/Documents/c++/accounting/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/accounting.dir/source/menus.cpp.o -c /Users/albert/Documents/c++/accounting/source/menus.cpp",
+  "file": "/Users/albert/Documents/c++/accounting/source/menus.cpp",
+  "output": "CMakeFiles/accounting.dir/source/menus.cpp.o"
+},
+{
+  "directory": "/Users/albert/Documents/c++/accounting/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/accounting.dir/source/operations.cpp.o -c /Users/albert/Documents/c++/accounting/source/operations.cpp",
+  "file": "/Users/albert/Documents/c++/accounting/source/operations.cpp",
+  "output": "CMakeFiles/accounting.dir/source/operations.cpp.o"
+},
+{
+  "directory": "/Users/albert/Documents/c++/accounting/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/accounting.dir/source/read_input.cpp.o -c /Users/albert/Documents/c++/accounting/source/read_input.cpp",
+  "file": "/Users/albert/Documents/c++/accounting/source/read_input.cpp",
+  "output": "CMakeFiles/accounting.dir/source/read_input.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/accounting.dir/main.cpp.o CMakeFiles/accounting.dir/source/menus.cpp.o CMakeFiles/accounting.dir/source/operations.cpp.o CMakeFiles/accounting.dir/source/read_input.cpp.o -o accounting
